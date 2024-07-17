@@ -1,2 +1,10 @@
-# Netduino_SDK_Firmware
-Collection of legacy Netduino firmware and SDK installers.
+# Netduino Resources
+
+This repository contains a number of supporting resources for the Netduino family of microcontroller boards.  The following archived resources can be found here:
+
+* Schematics
+* Firmware
+* SDK Installers
+* Visual Studio Extensions
+
+Note that Netduino in no longer actively supported and the information here is provided as-is with no warranty.
